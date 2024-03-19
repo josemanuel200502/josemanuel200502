@@ -14,7 +14,7 @@ Para contactar conmigo:
 
 pnp729752@gmail.com
 
-Si estás interesado en colaborar en algún proyecto o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de mi correo electrónico: 97ivangarcia@gmail.com 📧
+
 <!---
 josemanuel200502/josemanuel200502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
